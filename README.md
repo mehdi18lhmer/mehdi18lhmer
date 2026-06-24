@@ -1,41 +1,114 @@
-<h1 align="center">Elmahdi Elahmer</h1>
-<h3 align="center">A passionate Computer Scientist from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi18lhmer&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi18lhmer" /> </p>
+<h1 align="center">Elmahdi</h1>
+
+<h3 align="center">
+  SWE
+</h3>
+
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320"/>
+  <a href="mailto:mehdilhmer4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mehdilhmer4%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/elmahdi-elahmer-3a8388289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Elmahdi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mehdi18lhmer">
+    <img src="https://img.shields.io/badge/GitHub-mehdi18lhmer-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdi18lhmer" alt="mehdi18lhmer" /></a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="SWE GIF" />
+</p>
 
-- 🔭 I’m currently working on **ByteDoc – An AI-powered medical imaging & document analysis platform focused on cancer detection and healthcare data in Morocco/Africa**
+---
 
--  I’m currently learning **Software Engineering (system design, scalable applications) AI & Machine Learning engineering LLMs (fine-tuning, RAG, domain-specific chatbots) Research-oriented development**
+## About Me
 
--  I’m looking to collaborate on **AI, LLM-based applications, and full-stack platforms with real-world impact (education, healthcare, research)**
+I am a Junior SWE focused on building scalable, secure, and practical software systems. 
+I work across full-stack development, backend architecture, and AI tools, with a strong interest in turning ideas into reliable production-ready products. 
+I deliver my work with passion, and when I face something new, I research deeply, learn fast, and ask the right questions.
 
--  I’m looking for help with **Scaling AI systems, dataset curation, and deployment of ML/LLM models**
+---
 
--  All of my projects are available at [https://github.com/mehdi18lhmer](https://github.com/mehdi18lhmer)
+## Technical Stack
 
-- 📝I regularly write articles on [AI systems Software engineering Applied research projects](AI systems Software engineering Applied research projects)
+### Languages
 
--  Ask me about **Full-stack development (React, FastAPI) AI & Machine Learning LLM fine-tuning and AI system design Combining engineering + research**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
+</p>
 
-- 📫 How to reach me **mehdilhmer4@gmail.com**
-- ⚡ Fun fact **I enjoy turning research ideas into real software systems, especially when AI is involved.**
-<h3 align="left">Connect with me:</h3>
+### Frontend and Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,reactnative" />
+</p>
+
+### Backend and APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
+</p>
+
+### Databases and Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,gcp" />
+</p>
+
+### AI, Data, and ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode" />
+</p>
+--- 
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdi18lhmer&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi18lhmer&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi18lhmer&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elmahdi-elahmer-3a8388289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elmahdi-elahmer-3a8388289/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/elmahdielahmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/elmahdielahmer" height="30" width="40" /></a>
-<a href="https://instagram.com/lhmermehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lhmermehdi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mehdi18lhmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mehdi18lhmer/" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <a href="https://www.linkedin.com/in/elmahdi-elahmer-3a8388289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Elmahdi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.kaggle.com/elmahdielahmer" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-elmahdielahmer-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mehdi18lhmer/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-mehdi18lhmer-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lhmermehdi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-lhmermehdi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdi18lhmer&show_icons=true&locale=en" alt="mehdi18lhmer" /></p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehdi18lhmer&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  Building systems with architecture, intelligence, and real world purpose.
+</p>
+
